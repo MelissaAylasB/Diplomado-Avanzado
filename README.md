@@ -1,21 +1,6 @@
 # Diplomado IA y AP - Avanzado
 Este es un repositorio para aquellos interesados en adquirir conocimientos de alto nivel en inteligencia artificial y aprendizaje de máquinas para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información.
-## Horarios 
-Lunes, Miercoles Y Viernes, 6-8 pm (hora de Colombia) 
 
-Sábados, 8-12m (hora de Colombia)
-
-## Coordinador
-- Campo Elías Pardo Turriago, cepardot@unal.edu.co
-## Conferencistas 
-- Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co 
-- Oleg Jarma Montoya, Estadístico, ojarmam@unal.edu.co 
-- Daniel Mauricio Montenegro Reyes, MSc, dextronomo@gmail.com
-## Asesora Medios y Marketing digital
-- Maria del Pilar Montenegro, pmontenegro88@gmail.com
- ### Monitoras 
- - Nayibe Yesenia Arias Cortez, naariasc@unal.edu.co 
- - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
 ## Introducción
  - Estreno: La Inteligencia Artificial hoy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [diapositivas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Presentaciones/Estado_del_Arte-1.html#/)
 
